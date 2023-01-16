@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'e91d8861f31349609a107f28422da338',
+  rootNotionPageId: 'Chen-Wu-e91d8861f31349609a107f28422da338',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '吴晨的 个人博客',
-  domain: 'https://foil-comfort-d24.notion.site/Chen-Wu-e91d8861f31349609a107f28422da338',
+  domain: 'foil-comfort-d24.notion.site',
   author: '吴 晨',
 
   // open graph metadata (optional)
