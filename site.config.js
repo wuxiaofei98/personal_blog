@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '吴晨的 个人博客',
-  domain: 'foil-comfort-d24.notion.site',
+  domain: 'https://foil-comfort-d24.notion.site',
   author: '吴 晨',
 
   // open graph metadata (optional)
