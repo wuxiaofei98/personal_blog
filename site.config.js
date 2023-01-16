@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '吴小飞的 个人博客',
+  name: '吴晨的 个人博客',
   domain: 'https://foil-comfort-d24.notion.site/abb559591c1744819d0f6a13d8233a67',
-  author: '吴 小飞',
+  author: '吴 晨',
 
   // open graph metadata (optional)
   description: 'Example site description',
